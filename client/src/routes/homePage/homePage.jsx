@@ -8,6 +8,7 @@ function HomePage() {
   const {currentUser} = useContext(AuthContext)
 
   return (
+    // ndidnbjgi
     <div className="homePage">
       <div className="textContainer">
         <div className="wrapper">
