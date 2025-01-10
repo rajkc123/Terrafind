@@ -16,6 +16,7 @@ function HomePage() {
           <h1 className="title">Find Your Dream Place with us</h1>
 
           <SearchBar />
+          {/* imported from components */}
           <div className="boxes">
             <div className="box">
               <h1>Trusted and Reliable</h1>
